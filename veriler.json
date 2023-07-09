@@ -1,0 +1,569 @@
+[
+  {
+    "sehir": "Adana",
+    "plaka": "01",
+    "enlem": "36.9914",
+    "boylam": "35.3308",
+    "komsular": ["Mersin", "Osmaniye", "Hatay", "Kahramanmaraş", "Niğde", "Kayseri"]
+  },
+  {
+    "sehir": "Adıyaman",
+    "plaka": "02",
+    "enlem": "37.7636",
+    "boylam": "38.2773",
+    "komsular": ["Gaziantep", "Şanlıurfa", "Diyarbakır", "Malatya","Kahramanmaraş"]
+  },
+  {
+    "sehir": "Afyonkarahisar",
+    "plaka": "03",
+    "enlem": "38.7569",
+    "boylam": "30.5387",
+    "komsular": ["Kütahya", "Uşak", "Denizli", "Burdur", "Isparta", "Eskişehir", "Konya"]
+  },
+  {
+    "sehir": "Ağrı",
+    "plaka": "04",
+    "enlem": "39.7191",
+    "boylam": "43.0506",
+    "komsular": ["Iğdır", "Kars", "Erzurum", "Muş", "Van"]
+  },
+  {
+    "sehir": "Amasya",
+    "plaka": "05",
+    "enlem": "40.6565",
+    "boylam": "35.8373",
+    "komsular": ["Tokat", "Samsun", "Çorum", "Yozgat"]
+  },
+  {
+    "sehir": "Ankara",
+    "plaka": "06",
+    "enlem": "39.9334",
+    "boylam": "32.8597",
+    "komsular": ["Kırıkkale", "Aksaray", "Kırşehir", "Eskişehir", "Bolu", "Çankırı", "Konya"]
+  },
+  {
+    "sehir": "Antalya",
+    "plaka": "07",
+    "enlem": "36.8969",
+    "boylam": "30.7133",
+    "komsular": ["Muğla", "Burdur", "Isparta", "Konya", "Mersin", "Karaman"]
+  },
+  {
+    "sehir": "Artvin",
+    "plaka": "08",
+    "enlem": "41.1809",
+    "boylam": "41.8208",
+    "komsular": ["Rize", "Erzurum", "Ardahan"]
+  },
+  {
+    "sehir": "Aydın",
+    "plaka": "09",
+    "enlem": "37.8380",
+    "boylam": "27.8456",
+    "komsular": ["Denizli", "Muğla", "İzmir", "Manisa"]
+  },
+  {
+    "sehir": "Balıkesir",
+    "plaka": "10",
+    "enlem": "39.6533",
+    "boylam": "27.8903",
+    "komsular": ["Çanakkale", "Bursa", "Manisa", "İzmir", "Kütahya"]
+  },
+  {
+    "sehir": "Bilecik",
+    "plaka": "11",
+    "enlem": "40.1426",
+    "boylam": "29.9793",
+    "komsular": ["Eskişehir", "Kütahya", "Bursa", "Sakarya", "Bolu"]
+  },
+  {
+    "sehir": "Bingöl",
+    "plaka": "12",
+    "enlem": "38.8855",
+    "boylam": "40.4966",
+    "komsular": ["Tunceli", "Elazığ", "Muş", "Erzurum","Diyarbakır"]
+  },
+  {
+    "sehir": "Bitlis",
+    "plaka": "13",
+    "enlem": "38.4006",
+    "boylam": "42.1095",
+    "komsular": ["Siirt", "Batman", "Muş", "Van","Ağrı"]
+  },
+  {
+    "sehir": "Bolu",
+    "plaka": "14",
+    "enlem": "40.7325",
+    "boylam": "31.6082",
+    "komsular": ["Düzce", "Zonguldak", "Karabük", "Ankara", "Eskişehir", "Sakarya","Çankırı", "Bilecik"]
+  },
+  {
+    "sehir": "Burdur",
+    "plaka": "15",
+    "enlem": "37.7183",
+    "boylam": "30.2823",
+    "komsular": ["Denizli", "Afyonkarahisar", "Isparta", "Antalya", "Muğla"]
+  },
+  {
+    "sehir": "Bursa",
+    "plaka": "16",
+    "enlem": "40.1885",
+    "boylam": "29.0610",
+    "komsular": ["Balıkesir", "Kocaeli", "Sakarya", "Bilecik", "Yalova","Kütahya"]
+  },
+  {
+    "sehir": "Çanakkale",
+    "plaka": "17",
+    "enlem": "40.1467",
+    "boylam": "26.4086",
+    "komsular": ["Balıkesir", "Tekirdağ", "Edirne"]
+  },
+  {
+    "sehir": "Çankırı",
+    "plaka": "18",
+    "enlem": "40.6002",
+    "boylam": "33.6162",
+    "komsular": ["Bolu", "Kırıkkale", "Çorum", "Karabük", "Ankara", "Kastamonu"]
+  },
+  {
+    "sehir": "Çorum",
+    "plaka": "19",
+    "enlem": "40.5499",
+    "boylam": "34.9537",
+    "komsular": ["Amasya", "Samsun", "Yozgat", "Kırıkkale", "Çankırı", "Kastamonu","Sinop"]
+  },
+  {
+    "sehir": "Denizli",
+    "plaka": "20",
+    "enlem": "37.7830",
+    "boylam": "29.0963",
+    "komsular": ["Muğla", "Burdur", "Aydın", "Uşak", "Manisa", "Afyonkarahisar"]
+  },
+  {
+    "sehir": "Diyarbakır",
+    "plaka": "21",
+    "enlem": "37.9250",
+    "boylam": "40.2110",
+    "komsular": ["Mardin", "Batman", "Elazığ", "Malatya", "Adıyaman", "Şanlıurfa","Bingöl", "Muş"]
+  },
+  {
+    "sehir": "Edirne",
+    "plaka": "22",
+    "enlem": "41.6771",
+    "boylam": "26.5557",
+    "komsular": ["Kırklareli", "Tekirdağ", "Çanakkale"]
+  },
+  {
+    "sehir": "Elazığ",
+    "plaka": "23",
+    "enlem": "38.6748",
+    "boylam": "39.2225",
+    "komsular": ["Malatya", "Diyarbakır", "Tunceli", "Bingöl"]
+  },
+  {
+    "sehir": "Erzincan",
+    "plaka": "24",
+    "enlem": "39.7468",
+    "boylam": "39.4911",
+    "komsular": ["Erzurum", "Bayburt", "Gümüşhane", "Giresun", "Sivas", "Tunceli","Bingöl","Malatya"]
+  },
+  {
+    "sehir": "Erzurum",
+    "plaka": "25",
+    "enlem": "39.9055",
+    "boylam": "41.2658",
+    "komsular": ["Ağrı", "Kars", "Ardahan", "Artvin", "Rize", "Bayburt", "Erzincan","Bingöl","Muş"]
+  },
+  {
+    "sehir": "Eskişehir",
+    "plaka": "26",
+    "enlem": "39.7667",
+    "boylam": "30.5256",
+    "komsular": ["Kütahya", "Bilecik", "Bolu", "Ankara", "Konya", "Afyonkarahisar"]
+  },
+  {
+    "sehir": "Gaziantep",
+    "plaka": "27",
+    "enlem": "37.0660",
+    "boylam": "37.3781",
+    "komsular": ["Kilis", "Hatay", "Osmaniye", "Adıyaman", "Şanlıurfa", "Kahramanmaraş"]
+  },
+  {
+    "sehir": "Giresun",
+    "plaka": "28",
+    "enlem": "40.9175",
+    "boylam": "38.3927",
+    "komsular": ["Ordu", "Trabzon", "Gümüşhane", "Erzincan", "Sivas"]
+  },
+  {
+    "sehir": "Gümüşhane",
+    "plaka": "29",
+    "enlem": "40.4608",
+    "boylam": "39.4803",
+    "komsular": ["Trabzon", "Bayburt", "Erzincan", "Giresun"]
+  },
+  {
+    "sehir": "Hakkari",
+    "plaka": "30",
+    "enlem": "37.5774",
+    "boylam": "43.7368",
+    "komsular": ["Van", "Şırnak"]
+  },
+  {
+    "sehir": "Hatay",
+    "plaka": "31",
+    "enlem": "36.2023",
+    "boylam": "36.1613",
+    "komsular": ["Osmaniye", "Gaziantep", "Adana"]
+  },
+  {
+    "sehir": "Isparta",
+    "plaka": "32",
+    "enlem": "37.7626",
+    "boylam": "30.5537",
+    "komsular": ["Burdur", "Afyonkarahisar", "Antalya", "Konya"]
+  },
+  {
+    "sehir": "Mersin",
+    "plaka": "33",
+    "enlem": "36.8121",
+    "boylam": "34.6415",
+    "komsular": ["Adana", "Niğde", "Karaman", "Konya", "Antalya"]
+  },
+  {
+    "sehir": "İstanbul",
+    "plaka": "34",
+    "enlem": "41.0082",
+    "boylam": "28.9784",
+    "komsular": ["Tekirdağ", "Kocaeli","Kırklareli"]
+  },
+  {
+    "sehir": "İzmir",
+    "plaka": "35",
+    "enlem": "38.4237",
+    "boylam": "27.1428",
+    "komsular": ["Aydın", "Manisa", "Balıkesir"]
+  },
+  {
+    "sehir": "Kars",
+    "plaka": "36",
+    "enlem": "40.6013",
+    "boylam": "43.0975",
+    "komsular": ["Ağrı", "Iğdır", "Erzurum", "Ardahan"]
+  },
+  {
+    "sehir": "Kastamonu",
+    "plaka": "37",
+    "enlem": "41.3766",
+    "boylam": "33.7765",
+    "komsular": ["Sinop", "Çankırı", "Çorum", "Bartın", "Karabük"]
+  },
+  {
+    "sehir": "Kayseri",
+    "plaka": "38",
+    "enlem": "38.7205",
+    "boylam": "35.4826",
+    "komsular": ["Sivas", "Nevşehir", "Adana", "Kahramanmaraş", "Niğde", "Yozgat"]
+  },
+  {
+    "sehir": "Kırklareli",
+    "plaka": "39",
+    "enlem": "41.7355",
+    "boylam": "27.2244",
+    "komsular": ["Tekirdağ", "Edirne"]
+  },
+  {
+    "sehir": "Kırşehir",
+    "plaka": "40",
+    "enlem": "39.1461",
+    "boylam": "34.1595",
+    "komsular": ["Aksaray", "Ankara", "Nevşehir", "Yozgat", "Aksaray", "Kırıkkale"]
+  },
+  {
+    "sehir": "Kocaeli",
+    "plaka": "41",
+    "enlem": "40.7654",
+    "boylam": "29.9408",
+    "komsular": ["İstanbul", "Yalova", "Bursa", "Sakarya"]
+  },
+  {
+    "sehir": "Konya",
+    "plaka": "42",
+    "enlem": "37.8746",
+    "boylam": "32.4932",
+    "komsular": ["Aksaray", "Ankara", "Eskişehir", "Afyonkarahisar", "Isparta", "Antalya", "Mersin", "Niğde", "Karaman"]
+  },
+  {
+    "sehir": "Kütahya",
+    "plaka": "43",
+    "enlem": "39.4200",
+    "boylam": "29.9857",
+    "komsular": ["Uşak", "Afyonkarahisar", "Eskişehir", "Bilecik", "Bursa", "Balıkesir", "Manisa"]
+  },
+  {
+    "sehir": "Malatya",
+    "plaka": "44",
+    "enlem": "38.3554",
+    "boylam": "38.3335",
+    "komsular": ["Kahramanmaraş", "Adıyaman", "Elazığ", "Diyarbakır","Tunceli","Erzincan","Sivas"]
+  },
+  {
+    "sehir": "Manisa",
+    "plaka": "45",
+    "enlem": "38.6140",
+    "boylam": "27.4296",
+    "komsular": ["İzmir", "Balıkesir", "Kütahya", "Uşak", "Denizli", "Aydın"]
+  },
+  {
+    "sehir": "Kahramanmaraş",
+    "plaka": "46",
+    "enlem": "37.5753",
+    "boylam": "36.9228",
+    "komsular": ["Adana", "Osmaniye", "Gaziantep", "Adıyaman","Malatya", "Kayseri", "Sivas"]
+  },
+  {
+    "sehir": "Mardin",
+    "plaka": "47",
+    "enlem": "37.3129",
+    "boylam": "40.7340",
+    "komsular": ["Şırnak", "Siirt", "Batman","Diyarbakır","Şanlıurfa"]
+  },
+  {
+    "sehir": "Muğla",
+    "plaka": "48",
+    "enlem": "37.2154",
+    "boylam": "28.3634",
+    "komsular": ["Aydın", "Denizli", "Burdur", "Antalya"]
+  },
+  {
+    "sehir": "Muş",
+    "plaka": "49",
+    "enlem": "38.7346",
+    "boylam": "41.4910",
+    "komsular": ["Bingöl", "Diyarbakır", "Bitlis", "Ağrı", "Erzurum","Ağrı"]
+  },
+  {
+    "sehir": "Nevşehir",
+    "plaka": "50",
+    "enlem": "38.6247",
+    "boylam": "34.7142",
+    "komsular": ["Aksaray", "Kırşehir", "Yozgat", "Kayseri", "Niğde"]
+  },
+  {
+    "sehir": "Niğde",
+    "plaka": "51",
+    "enlem": "37.9698",
+    "boylam": "34.6766",
+    "komsular": ["Kayseri", "Nevşehir", "Aksaray", "Konya", "Mersin", "Adana"]
+  },
+  {
+    "sehir": "Ordu",
+    "plaka": "52",
+    "enlem": "40.9862",
+    "boylam": "37.8797",
+    "komsular": ["Giresun", "Sivas", "Tokat", "Samsun"]
+  },
+  {
+    "sehir": "Rize",
+    "plaka": "53",
+    "enlem": "41.0255",
+    "boylam": "40.5177",
+    "komsular": ["Artvin", "Erzurum", "Trabzon", "Bayburt"]
+  },
+  {
+    "sehir": "Sakarya",
+    "plaka": "54",
+    "enlem": "40.7889",
+    "boylam": "30.4060",
+    "komsular": ["Düzce", "Bolu", "Bilecik", "Bursa", "Kocaeli"]
+  },
+  {
+    "sehir": "Samsun",
+    "plaka": "55",
+    "enlem": "41.2797",
+    "boylam": "36.3361",
+    "komsular": ["Ordu", "Tokat", "Amasya", "Çorum", "Sinop"]
+  },
+  {
+    "sehir": "Siirt",
+    "plaka": "56",
+    "enlem": "37.9274",
+    "boylam": "41.9420",
+    "komsular": ["Bitlis", "Batman", "Mardin", "Şırnak","Van"]
+  },
+  {
+    "sehir": "Sinop",
+    "plaka": "57",
+    "enlem": "42.0280",
+    "boylam": "35.1517",
+    "komsular": ["Samsun", "Çorum", "Kastamonu"]
+  },
+  {
+    "sehir": "Sivas",
+    "plaka": "58",
+    "enlem": "39.7505",
+    "boylam": "37.0150",
+    "komsular": ["Kayseri", "Yozgat", "Tokat", "Ordu", "Giresun", "Erzincan", "Malatya","Kahramanmaraş"]
+  },
+  {
+    "sehir": "Tekirdağ",
+    "plaka": "59",
+    "enlem": "40.9781",
+    "boylam": "27.5117",
+    "komsular": ["Edirne", "Kırklareli", "Çanakkale", "İstanbul"]
+  },
+  {
+    "sehir": "Tokat",
+    "plaka": "60",
+    "enlem": "40.3235",
+    "boylam": "36.5522",
+    "komsular": ["Sivas", "Amasya", "Samsun", "Ordu","Yozgat"]
+  },
+  {
+    "sehir": "Trabzon",
+    "plaka": "61",
+    "enlem": "41.0027",
+    "boylam": "39.7168",
+    "komsular": ["Giresun", "Gümüşhane", "Bayburt", "Rize","Konya"]
+  },
+  {
+    "sehir": "Tunceli",
+    "plaka": "62",
+    "enlem": "39.1062",
+    "boylam": "39.5483",
+    "komsular": ["Elazığ","Bingöl", "Erzincan"]
+  },
+  {
+    "sehir": "Şanlıurfa",
+    "plaka": "63",
+    "enlem": "37.1674",
+    "boylam": "38.7955",
+    "komsular": ["Diyarbakır", "Adıyaman", "Gaziantep", "Mardin"]
+  },
+  {
+    "sehir": "Uşak",
+    "plaka": "64",
+    "enlem": "38.6742",
+    "boylam": "29.4059",
+    "komsular": ["Manisa", "Denizli", "Afyonkarahisar", "Kütahya"]
+  },
+  {
+    "sehir": "Van",
+    "plaka": "65",
+    "enlem": "38.5012",
+    "boylam": "43.3730",
+    "komsular": ["Bitlis", "Siirt", "Hakkari", "Ağrı"]
+  },
+  {
+    "sehir": "Yozgat",
+    "plaka": "66",
+    "enlem": "39.8210",
+    "boylam": "34.8086",
+    "komsular": ["Sivas", "Kayseri", "Nevşehir", "Kırşehir","Kırıkkale", "Çorum","Tokat"]
+  },
+  {
+    "sehir": "Zonguldak",
+    "plaka": "67",
+    "enlem": "41.4535",
+    "boylam": "31.7894",
+    "komsular": ["Bolu", "Karabük", "Bartın", "Düzce"]
+  },
+  {
+    "sehir": "Aksaray",
+    "plaka": "68",
+    "enlem": "38.3686",
+    "boylam": "34.0297",
+    "komsular": ["Konya", "Nevşehir", "Kırşehir", "Niğde"]
+  },
+  {
+    "sehir": "Bayburt",
+    "plaka": "69",
+    "enlem": "40.2603",
+    "boylam": "40.2280",
+    "komsular": ["Trabzon", "Gümüşhane", "Erzurum", "Erzincan","Rize"]
+  },
+  {
+    "sehir": "Karaman",
+    "plaka": "70",
+    "enlem": "37.1810",
+    "boylam": "33.2222",
+    "komsular": ["Konya", "Mersin", "Aksaray"]
+  },
+  {
+    "sehir": "Kırıkkale",
+    "plaka": "71",
+    "enlem": "39.8398",
+    "boylam": "33.5089",
+    "komsular": ["Ankara", "Çankırı", "Çorum", "Yozgat", "Kırşehir"]
+  },
+  {
+    "sehir": "Batman",
+    "plaka": "72",
+    "enlem": "37.8895",
+    "boylam": "41.1293",
+    "komsular": ["Siirt", "Mardin", "Diyarbakır","Muş", "Bitlis"]
+  },
+  {
+    "sehir": "Şırnak",
+    "plaka": "73",
+    "enlem": "37.5190",
+    "boylam": "42.4537",
+    "komsular": ["Siirt", "Mardin", "Hakkari","Van"]
+  },
+  {
+    "sehir": "Bartın",
+    "plaka": "74",
+    "enlem": "41.6376",
+    "boylam": "32.3338",
+    "komsular": ["Karabük", "Kastamonu", "Zonguldak"]
+  },
+  {
+    "sehir": "Ardahan",
+    "plaka": "75",
+    "enlem": "41.1130",
+    "boylam": "42.7023",
+    "komsular": ["Kars", "Artvin", "Erzurum"]
+  },
+  {
+    "sehir": "Iğdır",
+    "plaka": "76",
+    "enlem": "39.9201",
+    "boylam": "44.0436",
+    "komsular": ["Kars", "Ağrı"]
+  },
+  {
+    "sehir": "Yalova",
+    "plaka": "77",
+    "enlem": "40.6549",
+    "boylam": "29.2842",
+    "komsular": ["Bursa", "Kocaeli"]
+  },
+  {
+    "sehir": "Karabük",
+    "plaka": "78",
+    "enlem": "41.1956",
+    "boylam": "32.6227",
+    "komsular": ["Bolu", "Çankırı", "Ankara", "Zonguldak", "Bartın", "Kastamonu"]
+  },
+  {
+    "sehir": "Kilis",
+    "plaka": "79",
+    "enlem": "36.7165",
+    "boylam": "37.1147",
+    "komsular": ["Gaziantep", "Osmaniye"]
+  },
+  {
+    "sehir": "Osmaniye",
+    "plaka": "80",
+    "enlem": "37.0746",
+    "boylam": "36.2464",
+    "komsular": ["Hatay", "Gaziantep", "Kahramanmaraş", "Adana"]
+  },
+  {
+    "sehir": "Düzce",
+    "plaka": "81",
+    "enlem": "40.8387",
+    "boylam": "31.1626",
+    "komsular": ["Bolu", "Zonguldak", "Karabük"]
+  }
+]
